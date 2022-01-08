@@ -9,7 +9,8 @@ When you click "Generate Password" you will get prompts to help generate passwor
 
 When data is input and valided, the password will be generated.
 
-![Screen Shot 2022-01-08 at 10 49 48 AM](https://user-images.githubusercontent.com/78401136/148654350-5bf2418c-30d1-40e2-bb85-bd454cce9fe2.png)
+
+![Screen Shot 2022-01-08 at 10 58 00 AM](https://user-images.githubusercontent.com/78401136/148654636-ef568be9-bd26-48b5-8c8d-a42642dd5b0c.png)
 
 
 https://github.com/Stasiperez85/my-password-generator
